@@ -2,5 +2,4 @@ _test_*.*
 __pycache__
 .venv
 .idea
-*.pth
 *.ini
